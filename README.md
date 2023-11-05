@@ -33,7 +33,7 @@ Testes foram realizados utilizando o browser Chrome.
 
 # Instruções de uso
 
->>> Para usar basta abrir o ()[] em qualquer navegador no seu ```Computador``` e se divertir!
+>>> Para usar basta abrir o [Piano Virtual](https://pablo-oliveiradev.github.io/desafio-piano/) em qualquer navegador no seu ```Computador``` e se divertir!
 
 # Agradecimentos 💯
 >>> Agradeço a todos os envolvidos no bootcamp da DIO, o bootcamp esta sendo muito enriquecedor para o meu conhecimento nessa área de games !
